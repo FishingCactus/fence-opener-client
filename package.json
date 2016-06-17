@@ -1,0 +1,11 @@
+{
+  "name": "front-fence-opener",
+  "description": "Open the front fence.",
+  "author": "gogoprog <gogoprog@gmail.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.12",
+    "aws-sdk": "^2.4.0"
+  },
+  "devDependencies": {}
+}
